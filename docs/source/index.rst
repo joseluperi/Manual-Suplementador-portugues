@@ -3,7 +3,7 @@ Manual do Usuário do Suplementador Inteligente
 
 Bem-vindo ao manual do usuário do Suplementador Inteligente de SUPLEMENTAR SAS! 
 
-.. figure:: images/logo_Suplementar.png
+.. figure:: images/logo_Suplementar.pt_BR.png
    :width: 600
 
 Neste documento você encontra as referências e dicas para o uso e o melhor aproveitamento do equipamento.
